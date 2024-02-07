@@ -28,7 +28,7 @@ You can start the server by running the server executable:
 ./server
 ```
 
-The server will start listening for client connections on port 8080.
+The server will start listening for client connections on ```port 12345```.
 
 ## Connecting to the Server
 
